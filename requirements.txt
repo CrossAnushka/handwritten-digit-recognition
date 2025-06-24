@@ -1,0 +1,6 @@
+LIBRARIES USED IN THIS PROJECT:
+
+numpy
+matplotlib
+scikit-learn
+jupyter
